@@ -162,5 +162,5 @@ StockSense-AI/
 
 Machine Learning & Data Science Enthusiast
 
-
+link:https://inventory-analyzer-arsathlrlxlvcj94bs7jpte.streamlit.app/
 
