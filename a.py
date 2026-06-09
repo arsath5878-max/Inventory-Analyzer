@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("📦“¦ StockSense AI")
+st.title("📦"¦ StockSense AI")
 st.subheader("Smart Inventory Demand Forecasting System")
 
 uploaded_file = st.file_uploader(
@@ -381,11 +381,11 @@ if uploaded_file is not None:
 
         if reorder > 0:
             st.warning(
-                f"âš  Reorder {reorder} units immediately."
+                f" Reorder {reorder} units immediately."
             )
         else:
             st.success(
-                "âœ… Inventory level is sufficient."
+                " Inventory level is sufficient."
             )
 
         st.write("## Sales Trend")
