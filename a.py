@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("📦"¦ StockSense AI")
+st.title("📦“¦ StockSense AI")
 st.subheader("Smart Inventory Demand Forecasting System")
 
 uploaded_file = st.file_uploader(
